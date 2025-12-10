@@ -2,9 +2,11 @@
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Galax&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=SKYLINE-MD;Multi+Device+Whatsapp+Bot;Coded+By+BLAQ-BOY" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Neon&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=SKYLINE-REPO;AI+AND+Whatsapp+ASSISTANCE;POWERED+By+BLAQ-BOY" alt="Typing SVG" />
   </a> 
 </div>
+
+WELCOME TO SKYLINE-REPO WHATSAPP BOT,FEEL FREE TO FORK,STAR AND DOPLOY
 
 
 <div align="center"> 
@@ -15,10 +17,7 @@
 
 <div align="center"> 
   <a href="https://youtube.com/@blaqboy10?si=nJt7C38EPyhBIqAL"> 
-    <img src="https://files.catbox.moe/2osvqf.jpg" alt="SKYLINE-REPO" height="300"> 
-  </a> 
-</div>
-
+    
 <div align="center">
   <img src="https://files.catbox.moe/2osvqf.jpg?style=for-the-badge&label=Followers" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/mruniquehacker/Knightbot-MD?style=for-the-badge&label=Stars" alt="Stars"/>
