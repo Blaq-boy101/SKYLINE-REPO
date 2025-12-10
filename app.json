@@ -1,7 +1,7 @@
 {
-  "name": "LARA-MD",
-  "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
-  "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
+  "name": "sᴋʏʟɪɴᴇ-ᴍᴅ",
+  "description": "sᴋʏʟɪɴᴇ-ᴍᴅ Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝐀-𝐛𝐞𝐞𝐲 ᴅɪ ʙʟᴀǫ ʙᴏʏ · · ·",
+  "logo": "https://files.catbox.moe/2osvqf.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -14,19 +14,19 @@
     },  
     
     "OWNER_NUMBER": {
-      "description": "Set your owner number",
+      "description": "263789670839",
       "required": true,
-      "value": "94779062397"
+      "value": "263789670839"
     },
 
     "DEV": {
-      "description": "Bot Developer Numeber",
+      "description": "Bot Developer Number",
       "required": true,
-      "value": "94779062397"
+      "value": "263789670839"
     },
     
     "PREFIX": {
-      "description": "Set bot prefix(#,$,-!,?)",
+      "description": "Set bot prefix(.,#,$,-!,?)",
       "required": true,
       "value": "."
     },
@@ -64,7 +64,7 @@
     "STATUS_REPLY_MSG": {
       "description": "Statues reply msg",
       "required": true,
-      "value": "*_`AUTO STATUS JUST NOW SEEN BY LARA MD`_*"
+      "value": "*_`AUTO STATUS JUST NOW SEEN BY sᴋʏʟɪɴᴇ ᴍᴅ`_*"
     },
     
     "AUTO_STATUS_REACT": {
@@ -106,11 +106,11 @@
       "CUSTOM_REACT_EMOJIS": {
       "description": "Custome react emojis.",
       "required": true,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+      "value": "😀,🤣,😂,😅,😚,☺️,😘,🤩,🥰,😍,🤑,💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
     },
     
     "ANTI_LINK": {
-      "description": "Group link shear not allowed and kick out user",
+      "description": "Group link shear not allowed and warn user",
       "required": true,
       "value": "true"
     },
