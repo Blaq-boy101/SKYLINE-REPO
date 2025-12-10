@@ -1,9 +1,9 @@
 # SKYLINE-REPO
 
-<div align="center">
+<div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?  font=galaxy&size=60&pause=1000&colour=33ff00&center=true&width=888&height=100&lines=SKYPER-MD+TECH+AI+AND+WHATSAPP+ASSISTANCE;POWERED+BY+BLAQ-BOY" ait="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=SKYLINE-MD;Multi+Device+Whatsapp+Bot;Coded+By+BLAQ-BOY" alt="Typing SVG" />
+  </a> 
 </div>
 
 
