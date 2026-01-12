@@ -2,7 +2,8 @@
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Neon&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=SKYLINE-REPO;AI+AND+Whatsapp+ASSISTANCE;POWERED+By+BLAQ-BOY" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Neon&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=SKYLINE-REPO;Whatsapp%20ASSISTANCE;POWERED%20By+
+      %20BLAQ-BOY" alt="Typing SVG" />
   </a> 
 </div>
 
@@ -132,8 +133,8 @@ It is lightweight and can be easily customized to add more commands as per your 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/mruniquehacker/Knightbot-MD.git
-    cd Knightbot-MD
+    git clone https://github.com/Blaq-boy101/SKYLINE-REPO.git
+    cd SKYLINE-REPO 
     ```
 
 2. **Install the dependencies:**
