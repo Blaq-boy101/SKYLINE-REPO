@@ -7,7 +7,7 @@ services:
     region: oregon
     buildCommand: "npm install"
     startCommand: "node index.js"
-    repo: https://github.com/render/SKYLINE-REPO.git
+    repo: https://github.com/Blaq-boy101/SKYLINE-REPO.git
     envVars:
       - key: DATABASE_URL
         fromDatabase:
