@@ -8,8 +8,6 @@ services:
     buildCommand: "npm install"
     startCommand: "node index.js"
     repo: https://github.com/render/SKYLINE-REPO.git
-    buildCommand: './build.sh'
-    startCommand: 'python -m gunicorn mysite.asgi:application -k uvicorn.workers.UvicornWorker'
     envVars:
       - key: DATABASE_URL
         fromDatabase:
