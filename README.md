@@ -2,8 +2,7 @@
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Neon&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=SKYLINE-REPO;Multi-device+Whatsapp;ASSISTANCE+Bot;POWERED%20By+
-      %20BLAQ-BOY" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Neon&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=SKYLINE-REPO;Multi-device+Whatsapp;ASSISTANCE+Bot;POWERED%20By+BLAQ-BOY+TECH" alt="Typing SVG" />
   </a> 
 </div>
 
